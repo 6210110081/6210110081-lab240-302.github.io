@@ -5,17 +5,21 @@ description: >
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 
-baseurl: "" #"6210110081_lab240-302"
-url: "" #"https://6210110081.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+#edit
+
+baseurl: "6210110081_lab240-302"
+url: "https://6210110081.github.io"
+destination: ./_docs
 aux_links:
   "GitHub Lab 3SB01":
     - "https://github.com/6210110081/6210110081_lab240-302"
 search_enabled: true
 theme: just-the-docs
 
+#------------------------------------------------------------------------------
 
+twitter_username: jekyllrb
+github_username:  jekyll
 plugins:
   - jekyll-feed
 

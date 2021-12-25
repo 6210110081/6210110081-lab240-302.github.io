@@ -15,6 +15,7 @@ aux_links:
     - "https://github.com/6210110081/6210110081_lab240-302"
 search_enabled: true
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 #------------------------------------------------------------------------------
 

@@ -1,32 +1,32 @@
 {"0": {
-    "doc": "Satun Province!",
-    "title": "จังหวัดสตูล",
-    "content": ". คำขวัญประจำจังหวัด . สตูล สงบ สะอาด ธรรมชาติบริสุทธ์ . ข้อมูลจังหวัดสตูล . | อำเภอ | จำนวนตำบล | จำนวนหมู่บ้าน | . | เมืองสตูล | 12 ตำบล | 67 หมู่บ้าน | . | ควนโดน | 4 ตำบล | 30 หมู่บ้าน | . | ควนกาหลง | 3 ตำบล | 32 หมู่บ้าน | . | ท่าแพ | 4 ตำบล | 28 หมู่บ้าน | . | ทุ่งหว้า | 5 ตำบล | 35 หมู่บ้าน | . | มะนัง | 2 ตำบล | 19 หมู่บ้าน | . | ละงู | 6 ตำบล | 61 หมู่บ้าน | . Web Site จังหวัดสตูล . ” จังหวัดสตูล “, Link . ",
-    "url": "http://localhost:4000/6210110081_lab240-302/2021-12-13-satun.html#%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5",
-    "relUrl": "/2021-12-13-satun.html#จังหวัดสตูล"
-  },"1": {
-    "doc": "Satun Province!",
-    "title": "Satun Province!",
-    "content": " ",
-    "url": "http://localhost:4000/6210110081_lab240-302/2021-12-13-satun.html",
-    "relUrl": "/2021-12-13-satun.html"
-  },"2": {
-    "doc": "Welcome to Jekyll!",
-    "title": "Welcome to Jekyll!",
-    "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-title.MARKUP . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: . def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk. ",
-    "url": "http://localhost:4000/6210110081_lab240-302/2021-12-13-welcome-to-jekyll%20copy.html",
-    "relUrl": "/2021-12-13-welcome-to-jekyll%20copy.html"
-  },"3": {
     "doc": "Ban Buboay!",
     "title": "บ้านบุโบย",
     "content": ". ชุมชนบ้านบุโบย . ชมุชนบ้านบุโบย ตั้งอยู่ที่ ตำบลแหลมสน อำเภอละงู จังหวัดสตูล มีลักษณะพื้นที่เป็นรูปวงรีมีเนื้อที่ ทั้งหมด 1,210 ไร่ พื้นที่ส่วนใหญ่เป็นป่าชายเลน มีชายหาดความยาวประมาณ 4 กิโลเมตร อาชีพหลักของ คนในหมู่บ้าน คือ ประมงพื้นบ้าน เช่น อวนปลาทราย ไซหมึก ไซปูม้า ตกปลา ตกปูดำ เลี้ยงปลาในกระชัง เป็นต้น . ที่่ตั้ง . หมู่ที่ 3 ตำบลแหลมสน อำเภอละงู จังหวัดสตูล . แผนที่ . ",
-    "url": "http://localhost:4000/6210110081_lab240-302/buboay.html#%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%82%E0%B8%9A%E0%B8%A2",
-    "relUrl": "/buboay.html#บ้านบุโบย"
-  },"4": {
+    "url": "http://localhost:4000/2021-12-13-buboay.html#%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%82%E0%B8%9A%E0%B8%A2",
+    "relUrl": "/2021-12-13-buboay.html#บ้านบุโบย"
+  },"1": {
     "doc": "Ban Buboay!",
     "title": "Ban Buboay!",
     "content": " ",
-    "url": "http://localhost:4000/6210110081_lab240-302/buboay.html",
-    "relUrl": "/buboay.html"
+    "url": "http://localhost:4000/2021-12-13-buboay.html",
+    "relUrl": "/2021-12-13-buboay.html"
+  },"2": {
+    "doc": "Satun Province!",
+    "title": "จังหวัดสตูล",
+    "content": ". คำขวัญประจำจังหวัด . สตูล สงบ สะอาด ธรรมชาติบริสุทธ์ . ข้อมูลจังหวัดสตูล . | อำเภอ | จำนวนตำบล | จำนวนหมู่บ้าน | . | เมืองสตูล | 12 ตำบล | 67 หมู่บ้าน | . | ควนโดน | 4 ตำบล | 30 หมู่บ้าน | . | ควนกาหลง | 3 ตำบล | 32 หมู่บ้าน | . | ท่าแพ | 4 ตำบล | 28 หมู่บ้าน | . | ทุ่งหว้า | 5 ตำบล | 35 หมู่บ้าน | . | มะนัง | 2 ตำบล | 19 หมู่บ้าน | . | ละงู | 6 ตำบล | 61 หมู่บ้าน | . Web Site จังหวัดสตูล . ” จังหวัดสตูล “, Link . ",
+    "url": "http://localhost:4000/2021-12-13-satun.html#%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5",
+    "relUrl": "/2021-12-13-satun.html#จังหวัดสตูล"
+  },"3": {
+    "doc": "Satun Province!",
+    "title": "Satun Province!",
+    "content": " ",
+    "url": "http://localhost:4000/2021-12-13-satun.html",
+    "relUrl": "/2021-12-13-satun.html"
+  },"4": {
+    "doc": "Welcome to Jekyll!",
+    "title": "Welcome to Jekyll!",
+    "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-title.MARKUP . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: . def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk. ",
+    "url": "http://localhost:4000/2021-12-13-welcome-to-jekyll%20copy.html",
+    "relUrl": "/2021-12-13-welcome-to-jekyll%20copy.html"
   }
 }

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Ban Buboay!"
-date:   2021-12-13 08:36:53 +0700
 categories: jekyll update
 ---
 ## บ้านบุโบย

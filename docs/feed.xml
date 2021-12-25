@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/6210110081_lab240-302/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/6210110081_lab240-302/" rel="alternate" type="text/html" /><updated>2021-12-21T20:18:26+07:00</updated><id>http://localhost:4000/6210110081_lab240-302/feed.xml</id><title type="html">Your awesome title</title><subtitle>#Write an awesome description for your new site here. You can edit this #line in _config.yml. It will appear in your document head meta (for #Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/welcome-to-jekyll-copy.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-12-13T08:36:53+07:00</published><updated>2021-12-13T08:36:53+07:00</updated><id>http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/welcome-to-jekyll%20copy</id><content type="html" xml:base="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/welcome-to-jekyll-copy.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Ban Buboay!</title><link href="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/buboay.html" rel="alternate" type="text/html" title="Ban Buboay!" /><published>2021-12-13T08:36:53+07:00</published><updated>2021-12-13T08:36:53+07:00</updated><id>http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/buboay</id><content type="html" xml:base="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/buboay.html">&lt;h2 id=&quot;บ้านบุโบย&quot;&gt;บ้านบุโบย&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent.furt1-1.fna.fbcdn.net/v/t1.6435-9/58462267_823230728046593_6832626921587605504_n.jpg?_nc_cat=107&amp;amp;ccb=1-5&amp;amp;_nc_sid=09cbfe&amp;amp;_nc_ohc=RhmgfTt4SbkAX_Ldu8N&amp;amp;_nc_ht=scontent.furt1-1.fna&amp;amp;oh=00_AT9EuNPvvxnMEeSbxS5KZW8PbxezJzt-RyzIkLlwtvxi_A&amp;amp;oe=61DA7024&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ชุมชนบ้านบุโบย&quot;&gt;ชุมชนบ้านบุโบย&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;ชมุชนบ้านบุโบย ตั้งอยู่ที่ ตำบลแหลมสน อำเภอละงู จังหวัดสตูล มีลักษณะพื้นที่เป็นรูปวงรีมีเนื้อที่ ทั้งหมด 1,210 ไร่ พื้นที่ส่วนใหญ่เป็นป่าชายเลน มีชายหาดความยาวประมาณ 4 กิโลเมตร อาชีพหลักของ คนในหมู่บ้าน คือ ประมงพื้นบ้าน เช่น อวนปลาทราย ไซหมึก ไซปูม้า ตกปลา ตกปูดำ เลี้ยงปลาในกระชัง เป็นต้น&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;ที่่ตั้ง&quot;&gt;ที่่ตั้ง&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;หมู่ที่ 3 ตำบลแหลมสน อำเภอละงู จังหวัดสตูล&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;แผนที่&quot;&gt;แผนที่&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent.furt1-1.fna.fbcdn.net/v/t1.6435-9/38861320_674378492931818_6824918322874679296_n.jpg?_nc_cat=104&amp;amp;ccb=1-5&amp;amp;_nc_sid=cdbe9c&amp;amp;_nc_ohc=sPc2e44JWhUAX-YZ6W7&amp;amp;_nc_ht=scontent.furt1-1.fna&amp;amp;oh=00_AT8XRXiku7iUXKFm7Ub7OHt9GJM8hWKODb7W9qE2DjZlng&amp;amp;oe=61DAF3D9&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">บ้านบุโบย</summary></entry><entry><title type="html">Satun Province!</title><link href="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/satun.html" rel="alternate" type="text/html" title="Satun Province!" /><published>2021-12-13T08:36:53+07:00</published><updated>2021-12-13T08:36:53+07:00</updated><id>http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/satun</id><content type="html" xml:base="http://localhost:4000/6210110081_lab240-302/jekyll/update/2021/12/13/satun.html">&lt;h2 id=&quot;จังหวัดสตูล&quot;&gt;จังหวัดสตูล&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/9/2017/02/03163902/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B9%8A%E0%B8%B0_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;คำขวัญประจำจังหวัด&quot;&gt;คำขวัญประจำจังหวัด&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;สตูล สงบ สะอาด ธรรมชาติบริสุทธ์&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;ข้อมูลจังหวัดสตูล&quot;&gt;ข้อมูลจังหวัดสตูล&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;อำเภอ&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;จำนวนตำบล&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;จำนวนหมู่บ้าน&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;เมืองสตูล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;67 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ควนโดน&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ควนกาหลง&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ท่าแพ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;28 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ทุ่งหว้า&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;35 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;มะนัง&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ละงู&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 ตำบล&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;61 หมู่บ้าน&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;web-site-จังหวัดสตูล&quot;&gt;Web Site จังหวัดสตูล&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;” จังหวัดสตูล “, &lt;a href=&quot;http://www.satun.go.th/frontpage&quot;&gt; Link &lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">จังหวัดสตูล</summary></entry></feed>

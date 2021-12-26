@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 ## **ผู้จัดทำ**
 นายซอฟรอน  กูวะ\

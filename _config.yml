@@ -17,7 +17,6 @@ search_enabled: true
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 future: true
-timezone: TIMEZONE
 
 #------------------------------------------------------------------------------
 
